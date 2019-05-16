@@ -18,6 +18,8 @@ public class Student {
 
     private String sex;
 
+    private String address;
+
     private List<String> hobbies;
 
 }
